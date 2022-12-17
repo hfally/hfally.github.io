@@ -1,0 +1,12 @@
+{
+    "name": "hfally/personal-website",
+    "description": "Personal Website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tofunmi Falade",
+            "email": "tofex4eva@yahoo.com"
+        }
+    ],
+    "require": {}
+}
